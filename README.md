@@ -14,15 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I am from Gurugram and currently working as a Software Engineer at Planetspark.
-
-
-<a href="https://www.linkedin.com/in/sahil-tuli-2670b91a1/"><img alt="LinkedIn" src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/></a>
-<br>
-<a href="https://www.instagram.com/shinchan.07/"><img alt="Instagram" src="https://img.icons8.com/officel/30/000000/instagram-new.png"/></a>
-
-<h1 align="center">Hi This is Sahil Tuli</h1>
-<h3 align="center">A passionate learner!</h3>
+<h2 align="center">Hi, This is Sahil Tuli</h2>
+<h4 align="center">A passionate learner!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil0706&label=Profile%20views&color=0e75b6&style=flat" alt="sahil0706" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/n3C0yVy/AJ-2.gif">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sahil0706" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sahil-tuli-2670b91a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahil0706" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sahil0706s" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shinchan.07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="sahil0706s" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sahil20000706" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sahil0706" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@sahil20000706" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerearth.svg" alt="sahil0706" height="30" width="40" /></a>
+</p>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil0706&show_icons=true&locale=en&layout=compact" alt="sahil0706" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil0706&show_icons=true&locale=en" alt="sahil0706" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil0706&" alt="sahil0706" /></p>
