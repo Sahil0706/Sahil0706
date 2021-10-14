@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.linkedin.com/in/sahil-tuli-2670b91a1/"><img alt="LinkedIn" src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/></a>
+<br>
 <a href="https://www.instagram.com/shinchan.07/"><img alt="Instagram" src="https://img.icons8.com/office/16/000000/instagram-new.png"/></a>
 
