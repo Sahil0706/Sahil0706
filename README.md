@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/shinchan.07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="sahil0706s" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sahil20000706" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sahil0706" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sahil20000706" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerearth.svg" alt="sahil0706" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" alt="sahil0706" height="30" width="40" /></a>
+<a href="https://leetcode.com/sahil20000706/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" alt="sahil0706" height="30" width="40" /></a>
 </p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil0706&show_icons=true&locale=en&layout=compact" alt="sahil0706" /></p>
