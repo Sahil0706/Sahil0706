@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/sahil20000706/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" alt="sahil0706" height="30" width="40" /></a>
 </p>
 <br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil0706&show_icons=true&locale=en&layout=compact" alt="sahil0706" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil0706&show_icons=true&locale=en" alt="sahil0706" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil0706&" alt="sahil0706" /></p>
