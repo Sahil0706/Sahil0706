@@ -22,3 +22,7 @@ I am from Gurugram and currently working as a Software Engineer at Planetspark.
 <br>
 <a href="https://www.instagram.com/shinchan.07/"><img alt="Instagram" src="https://img.icons8.com/officel/30/000000/instagram-new.png"/></a>
 
+<h1 align="center">Hi This is Sahil Tuli</h1>
+<h3 align="center">A passionate learner!</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil0706&label=Profile%20views&color=0e75b6&style=flat" alt="sahil0706" /> </p>
