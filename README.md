@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil0706&label=Profile%20views&color=0e75b6&style=flat" alt="sahil0706" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/n3C0yVy/AJ-2.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
