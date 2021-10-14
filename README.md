@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.linkedin.com/in/sahil-tuli-2670b91a1/"><i class="fa fa-user">LinkedIn</a>
+<a href="https://www.linkedin.com/in/sahil-tuli-2670b91a1/"><img src = " https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"><i class="fa fa-user">LinkedIn</a>
 
