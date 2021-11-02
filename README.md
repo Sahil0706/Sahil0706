@@ -1,6 +1,6 @@
+<!--
 ### Hi there, I am using github 👋
 
-<!--
 **Sahil0706/Sahil0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
