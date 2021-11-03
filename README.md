@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil0706&show_icons=true&locale=en&layout=compact" alt="sahil0706" /></p>
 <br>
-<div>
+<div style="display: block;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sahil0706" height="30" width="40" /></a>
