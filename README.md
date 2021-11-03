@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2 align="center">Sahil Tuli</h2>
 <h4 align="center">A passionate and quick learner!</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil0706&label=Profile%20views&color=0e75b6&style=flat" alt="sahil0706" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sahil0706&label=Profile%20views&color=0e75b6&style=flat" alt="sahil0706" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
