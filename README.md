@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sahil0706&label=Profile%20views&color=0e75b6&style=flat" alt="sahil0706" /> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil0706&show_icons=true&locale=en&layout=compact" alt="sahil0706" /></p>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
