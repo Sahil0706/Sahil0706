@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sahil0706)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil0706&show_icons=true&locale=en" alt="sahil0706" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil0706&" alt="sahil0706" /></p>
