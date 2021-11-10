@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
-<!--
-<img src="https://github-profile-trophy.vercel.app/?username=sahil0706&theme=flat" />
--->
+
+<img src="https://github-profile-trophy.vercel.app/?username=sahil0706&column=3&margin-w=15&margin-h=15" />
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil0706&show_icons=true&locale=en" alt="sahil0706" /></p>
