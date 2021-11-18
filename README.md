@@ -52,6 +52,11 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+<br/>
+
+![](https://activity-graph.herokuapp.com/graph?username=sahil0706&theme=dracula&hide_border=true&area=true)
+<br/>
+
 <!--
 <img src="https://github-profile-trophy.vercel.app/?username=sahil0706&column=3&margin-w=15&margin-h=15" />
 -->
