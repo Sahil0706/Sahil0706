@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 <div style="display: block;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sahil0706" height="30" width="40" /></a>
+<!--<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sahil0706" height="30" width="40" /></a>-->
 <a href="https://www.linkedin.com/in/sahil-tuli-2670b91a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahil0706" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sahil0706s" height="30" width="40" /></a>
+<!--<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sahil0706s" height="30" width="40" /></a>-->
 <a href="https://www.instagram.com/shinchan.07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="sahil0706s" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sahil20000706" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sahil0706" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sahil20000706" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerearth.svg" alt="sahil0706" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" alt="sahil0706" height="30" width="40" /></a>
+<!--<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" alt="sahil0706" height="30" width="40" /></a>-->
 <a href="https://leetcode.com/sahil20000706/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" alt="sahil0706" height="30" width="40" /></a>
 </p>
 </div>
